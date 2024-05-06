@@ -1,6 +1,6 @@
 # StudioTime
 
-Terms of service
+## Terms of service
 
 These Terms of Service ("Terms") govern your access to and use of the Studio Time plugin (the "Plugin") provided by Hiatus.
 
